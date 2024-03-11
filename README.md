@@ -25,7 +25,7 @@ Installation
 
     bash
 
-git clone https://github.com/mrsheun/.workspaces.git
+git clone https://github.com/mrsheun/Eth_Lagos-Hackerton.git
 
 Install dependencies:
 

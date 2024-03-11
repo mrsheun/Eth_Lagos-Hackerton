@@ -1,4 +1,4 @@
-ERC-721 NFT Project
+ERC-721 NFT Project.
 
 This project is an implementation of the ERC-721 standard for non-fungible tokens (NFTs) on the Ethereum blockchain. It was created in response to the hackathon held by Ethereum Nigeria at the University of Lagos campus. The project allows for the creation, ownership, and transfer of unique digital assets.
 Overview

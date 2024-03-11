@@ -25,7 +25,7 @@ Installation
 
     bash
 
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/mrsheun/.workspaces.git
 
 Install dependencies:
 
@@ -33,7 +33,7 @@ bash
 
     npm install
 
-    Configure your Ethereum wallet and Web3 provider settings in truffle-config.js.
+    Don't forget to configure your metamask wallet and Web3 provider settings in truffle-config.js.
 
 Usage
 
@@ -49,7 +49,7 @@ bash
 
     truffle migrate --network <network-name>
 
-    Interact with the deployed contract using Truffle console or integrate it into your application.
+
 
 Contributing
 
@@ -67,6 +67,6 @@ License
 This project is licensed under the MIT License.
 Acknowledgements
 
-    Ethereum Nigeria for organizing the hackathon at the University of Lagos campus.
+    Ethereum Nigeria and my mentor (Enoch Mbaebie) for organizing the hackathon at the University of Lagos campus.
     OpenZeppelin for their ERC-721 implementation and security audits.
     Truffle Suite for providing development tools and resources for Ethereum smart contracts.
